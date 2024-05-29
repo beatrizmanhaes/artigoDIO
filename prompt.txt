@@ -1,0 +1,8 @@
+Prompts:
+- Artigo: 
+escreva um texto no estilo de artigo sobre o impacto da inteligencia artificial no mercado de trabalho e o risco dela ocupar lugar de trabalhadores no futuro seguindo as regras
+{REGRAS}
+>o texto deve ser rico em informações
+> dê um título para o artigo e subtitulos para separa blocos com conteudos diferentes
+> dê uma alternativa por parte do governo para que a substituição do humano pela maquina seja menos avassaladora 
+
